@@ -2,8 +2,7 @@
 <div align="right">
 > أنشأت هذا في البداية كقائمة مختصرة لمواضيع الدراسة لأصبح مهندس برمجيات,
 > ولكنها نمت إلى القائمة الكبيرة التي تراها اليوم. بعد أن قمت بمراجعة هذه الخطة الدراسية،
-> [تم توظيفي كمهندس تطوير برمجيات في شركة أمازون!]
-	(https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)
+>[حصلت على عمل كمهندس برامجيات في شركة امازون](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)
 > ربما لن تحتاج إلى الدراسة بقدر ما درست. لكن على كل حال, كل ما تحتاج إليه موجود هنا.
 >
 > لقد درست لمدة 8-12 ساعة يوميًا لعدة أشهر. هذه قصتي: [لماذا درست بدوام كامل لمدة 8 أشهر من أجل مقابلة عمل في جوجل](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
