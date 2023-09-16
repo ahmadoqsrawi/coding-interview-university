@@ -15,10 +15,8 @@
 > *أتمنى لك كل التوفيق!*
 </div>
 <details>
-
-<details dir="rtl">
-<summary>الترجمات:</summary>
-
+<summary>Translations:</summary>
+	
 - [Urdu - اردو](translations/README-ur.md)
 - [中文版本 - الصينية](translations/README-cn.md)
 - [Tiếng Việt - الفيتنامبة](translations/README-vi.md)
@@ -34,7 +32,7 @@
 - [Uzbek - الأوزبكية](translations/README-uz.md)
 - [Bulgarian - البلاروسية](translations/README-bg.md)
 - [বাংলা -  البنغالية](translations/README-bn.md)
-  
+
 </details>
 
 <details dir="rtl">
