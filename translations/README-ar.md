@@ -1,36 +1,38 @@
 # الإعداد لمقابلة البرمجة
-
 <div align="right">
   
-> لقد قمت بأنشاء هذا في الأصل كلائحة صغيرة تحتوي على مواضيع دراسية الغرض من دراستها ان أصبح مهندس برامجيات،
-> لكنها توسعت الى قائمة كبيرة التي تراها اليوم. بعد ان قمتُ بدراسة لائحة المواضيع هذه وحسب الخطة، [حصلت على عمل كمهندس برامجيات في شركة امازون](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)
->! على الأغلب لن تحتاج إلى ان تدرس بالقدر الذي درسته أنا. لكن على كل حال كل ما تحتاج إليه موجود هنا.
+> أنشأت هذا في البداية كقائمة مختصرة لمواضيع الدراسة لأصبح مهندس برمجيات,
+> ولكنها نمت إلى القائمة الكبيرة التي تراها اليوم. بعد أن قمت بمراجعة هذه الخطة الدراسية،
+> [تم توظيفي كمهندس تطوير برمجيات في شركة أمازون!](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)
+> ! على الأغلب لن تحتاج إلى الدراسة بقدر ما درست. لكن على كل حال, كل ما تحتاج إليه موجود هنا.
 >
->درستُ لمدة ٨-١٢ ساعة في اليوم, لعدة أشهر. هذه هي قصتي: [لماذا كرستُ كل وقتي لمدة ثمانية أشهر من أجل مقابلة لدا قوقل](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
+> لقد درست لمدة 8-12 ساعة يوميًا لعدة أشهر. هذه قصتي: [لماذا درست بدوام كامل لمدة 8 أشهر من أجل مقابلة عمل في جوجل](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
 >
-> **ملاحظة:** لن تحتاج للدراسة بقدر ما فعلت انا، لقد اهدرت المزيد من الوقت والجهد على مواضيع لم اكن بحاجة الى معرفتها، مزيد حول ذلك ادناه، سوف اساعدك بالوصول الى هناك دون اضاعة وقتك الثمين.
+> **يرجى الملاحظة:** لن تحتاج إلى الدراسة بقدر ما درست. قضيت وقتًا كبيرًا على أمور لم يكن لديّ حاجة لمعرفتها. مزيد من المعلومات حول ذلك أدناه. سأساعدك في الوصول إلى هناك دون إضاعة وقتك الثمين.
 >
-> المواضيع المدرجة في هذه اللائحة ستجهزك جيدا لاجراء مقابلة تقنية مع اي شركة برمجية تقريبا، حتى الشركات العملاقة: أمازون، فيسبوك، قوقل، وميكروسوفت.
->
+> العناصر المدرجة هنا ستجهزك جيدًا لمقابلة فنية في أي شركة برمجيات تقريبًا,
+>بما في ذلك الشركات العملاقة مثل أمازون, فيسبوك, جوجل ومايكروسوفت.
 >بالتوفيق.
->
-
 </div>
-
-
-
 <details dir="rtl">
 <summary>الترجمات:</summary>
 
-- [中文版本](translations/README-cn.md)
+- [Urdu - اردو](translations/README-ur.md)
+- [中文版本 - الصينية](translations/README-cn.md)
 - [Tiếng Việt - الفيتنامبة](translations/README-vi.md)
-- [الإسبانية](translations/README-es.md)
-- [(البرتغالية (البرازيلية](translations/README-ptbr.md)
-- [البولندية](translations/README-pl.md)
-- [繁體中文](translations/README-tw.md)
-- [اليابانية (日本語)](translations/README-ja.md)
-- [الروسية](translations/README-ru.md)
-
+- [Español - الإسبانية](translations/README-es.md)
+- [Português Brasileiro - البرتغالية البرازيلية](translations/README-ptbr.md)
+- [Polish - البولندية](translations/README-pl.md)
+- [繁體中文 - التايوانية](translations/README-tw.md)
+- [(日本語) - اليابانية](translations/README-ja.md)
+- [Russian - الروسية](translations/README-ru.md)
+- [German - الالمانية](translations/README-de.md)
+- [Bahasa Indonesia - الاندونيسية](translations/README-id.md)
+- [ខ្មែរ - الخميرية](translations/README-kh.md)
+- [Uzbek - الأوزبكية](translations/README-uz.md)
+- [Bulgarian - البلاروسية](translations/README-bg.md)
+- [বাংলা -  البنغالية](translations/README-bn.md)
+  
 </details>
 
 <details dir="rtl">
