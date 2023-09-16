@@ -38,35 +38,33 @@
 <details dir="rtl">
 <summary>ترجمات تحت الإعداد:</summary>
 
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [الإندونيسية](https://github.com/jwasham/coding-interview-university/issues/101)
-- [العربية](https://github.com/jwasham/coding-interview-university/issues/98)
-- [التركية](https://github.com/jwasham/coding-interview-university/issues/90)
-- [الفرنسية](https://github.com/jwasham/coding-interview-university/issues/89)
-- [الأكرانية](https://github.com/jwasham/coding-interview-university/issues/106)
-- [الكورية(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [أردو](https://github.com/jwasham/coding-interview-university/issues/140)
-- [التايلندية](https://github.com/jwasham/coding-interview-university/issues/156)
-- [اليونانية](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-
+- [हिन्दी - الهندية](https://github.com/jwasham/coding-interview-university/issues/81)
+- [العبرية - עברית](https://github.com/jwasham/coding-interview-university/issues/82)
+- [Arabic - العربية](https://github.com/jwasham/coding-interview-university/issues/98)
+- [Turkish - التركية](https://github.com/jwasham/coding-interview-university/issues/90)
+- [French - الفرنسية](https://github.com/jwasham/coding-interview-university/issues/89)
+- [Українська - الأوكرانية](https://github.com/jwasham/coding-interview-university/issues/106)
+- [(한국어) - الكورية](https://github.com/jwasham/coding-interview-university/issues/118)
+- [Telugu - التيلوغوية](https://github.com/jwasham/coding-interview-university/issues/117)
+- [Thai - التايلاندية](https://github.com/jwasham/coding-interview-university/issues/156)
+- [Greek - اليونانية](https://github.com/jwasham/coding-interview-university/issues/166)
+- [Malayalam - المالايالامية](https://github.com/jwasham/coding-interview-university/issues/239)
+- [Persian - الفارسية](https://github.com/jwasham/coding-interview-university/issues/186)
+- [Italian - الإيطالية](https://github.com/jwasham/coding-interview-university/issues/1030)
+- [Afrikaans - الأفريقانية](https://github.com/jwasham/coding-interview-university/issues/1164)
 </details>
 
-<hr />
-
 <div align="center">
+	<hr />
     <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+        <a href="https://github.com/sponsors/jwasham"><strong>كن راعيًا</strong> وادعم إعداد المقابلات البرمجية! </a>
     </p>
     <hr />
 </div>
 
 ## ما هذا!
-<p align="center">
-  <img alt="Coding at the whiteboard - from HBO's Silicon Valley" src="https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png">
-</p>
+
+![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 
 هذه خطتي الدراسية التي تستغرق عدة اشهر من اجل ان اصبح مهندس برامجيات في شركة عملاقة.
 
@@ -75,27 +73,34 @@
 * صبر.
 * وقت.
 
-ملاحظة: هذه الخطة الدراسية هي من اجل ان تصبح مهندس برامجيات وليس من اجل ان تصبح مطور تطبيقات للويب. كبرى الشركات التقنية مثل كوكل، امازون، مايكروسوفت، فيسبوك ينظرون الى مهندس البرامجيات بنظرة مختلفة عن مطور البرامجيات/الويب، على سبيل المثال شركة امازون لديها مهندس الواجهات (Frontend Engineers) ولديها مهندس تطوير برامجيات (Software Development Engineers) ولكل منها دور مختلف والمقابلة التقنية لكل منها مختلفة تماما، لكن بصورة عام تتطلب هذه الشركات معرفة بعلوم الحاسوب للمتقدمين لشغل ادوار تخص تطوير البرامجيات او هندسة البرامجيات.
+ملاحظة أن هذه خطة دراسية **لهندسة البرمجيات**, وليست هندسة الواجهة الأمامية أو تطوير الويب الكامل. هناك بالفعل خرائط طريق ودورات دراسية رائعة لتلك المسارات الوظيفية في أماكن أخرى (انظر https://roadmap.sh) لمزيد من المعلومات.
+
+هناك الكثير لنتعلمه في برنامج علوم الكمبيوتر بالجامعة، ولكن معرفة حوالي 75% فقط أمر جيد بما يكفي لإجراء مقابلة، لذلك هذا ما أغطيه هنا.
+
+للحصول على برنامج تعليمي كامل لعلوم الكمبيوتر، تم تضمين الموارد الخاصة بخطتي الدراسية في خريطة طريق علوم الكمبيوتر الخاصة بكامران أحمد: https://roadmap.sh/computer-science
 
 <hr />
 
 ## الفهرس
-
-
+### خطة الدراسة
 <div dir='rtl' align='right'>
 	
-	
 - [ما هذا؟](#ما-هذا)
-- [لماذا استخدم هذه الخطة الدراسية؟](#لماذا-استخدم-هذه-الخطة-الدراسية)
-- [كيفية استخدامها](#كيفية-استخدامها)
-- [عن مصادر مقاطع الفيديو](#عن-مصادر-مقاطع-الفديو)
-- [مراحل المقابلة الشخصية & الإستعداد العام للمقابلة](#مراحل-المقابلة-الشخصية-و-الإستعداد-العام-للمقابلة)
-- [اختر لغة برمجية واحدة للمقابلة البرمجية](#اختر-لغة-برمجية-واحدة-للمقابلة-البرمجية)
-- [لائحة الكتب](#لائحة-الكتب)
-- [قبل البدء](#قبل-البدء)
-- [ما لن تجده هنا](#ما-لن-تجده-هنا)
-- [الخطة اليومية](#الخطة-اليومية)
-- [معرفة مسبقة](#المعرفة-المسبقة)
+- [لماذا استخدمها؟](#لماذا-استخدم-هذه-الخطة-الدراسية)
+- [كيف استخدمها](#كيفية-استخدامها)
+- [لا تشعر أنك لست ذكيا بما فيه الكفاية](#لا-تشعر-أنك-لست-ذكيا-بما-فيه-الكفاية) 
+- [ملاحظة حول موارد الفيديو](#عن-مصادر-مقاطع-الفديو)
+- [اختر لغة برمجة](#اختر-لغة-برمجة)
+- [كتب لهياكل البيانات والخوارزميات](#كتب-لهياكل-البيانات-والخوارزميات)
+- [كتب الإعداد للمقابلة](#كتب-الإعداد-للمقابلة)
+- [لا ترتكب أخطائي](#لا-ترتكب-أخطائي)
+- [ما لن تراه مغطى](#ما_لن_تراه_مغطى)
+- [الخطة اليومية](#the-daily-plan)
+- [ممارسة أسئلة التكويد](#ممارسة_أسئلة_التكويد)
+- [مشاكل التكويد](#مشاكل_التكويد)
+  
+  ### موضوعات الدراسة
+  
 - [تقدير وتحليل أداء الخوارزميات (Algorithmic complexity / Big-O / Asymptotic analysis)](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [هياكل البيانات (Data Structures)](#data-structures)
     - [المصفوفات (Arrays)](#arrays)
